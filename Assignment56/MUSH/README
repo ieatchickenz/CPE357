@@ -1,0 +1,8 @@
+Hunter Waite (hwaite) 
+Alex Petrov (abpetrov)
+
+Projects 5 and 6 CPE 357: 
+Max 10 commands with 10 arguments with a max line
+length of 512.
+
+Cd's behavior in a pipeline is undefined.
