@@ -1,0 +1,11 @@
+Alex Petrov (abpetrov)
+
+
+This program..... sucks. No way around it it just does. I got my hash table
+running for the most part except for resizing. My read_long_word acts a little
+funcky at the end of files. I did not have enough time to figure out how to
+include flags or stdin so the program only works "./fw filename"....with files
+that are small enough.
+
+It can't even compile because I was trying to make header files and failed
+utterly 
