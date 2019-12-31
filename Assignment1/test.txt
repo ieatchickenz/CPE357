@@ -1,0 +1,9 @@
+This is a test	after tab
+
+1	aftertab
+12	aftertab
+123	aftertab
+1234	aftertab
+12345	aftertab
+123456	aftertab
+1234567	aftertab
